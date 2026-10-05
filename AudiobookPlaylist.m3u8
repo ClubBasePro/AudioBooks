@@ -1,0 +1,377 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# ======================================================
+# THE CHRONICLES OF NARNIA
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/10524458-L.jpg",The Chronicles of Narnia 1 - The Magician's Nephew
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/1_The_Magican_39_s_Nephew/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%201%20-%20The%20Magician%27s%20Nephew%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8231990-L.jpg",The Chronicles of Narnia 2 - The Lion, The Witch and the Wardrobe
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/2_The_Lion_The_Witch_and_the_Wardrobe/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%202%20-%20The%20Lion%2C%20The%20Witch%20and%20the%20Wardrobe%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232014-L.jpg",The Chronicles of Narnia 3 - The Horse and His Boy
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/3_The_Horse_and_His_Boy/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%203%20-%20The%20Horse%20and%20His%20Boy%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232025-L.jpg",The Chronicles of Narnia 4 - Prince Caspian
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/4_Prince_Caspian/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%204%20-%20Prince%20Caspian%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232036-L.jpg",The Chronicles of Narnia 5 - The Voyage of the Dawn Treader
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/5_The_Voyage_of_the_Dawn_Treader/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%205%20-%20The%20Voyage%20of%20the%20Dawn%20Treader%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232047-L.jpg",The Chronicles of Narnia 6 - The Silver Chair
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/6_The_Silver_Chair/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%206%20-%20The%20Silver%20Chair%20%28Audiobook%29.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232058-L.jpg",The Chronicles of Narnia 7 - The Last Battle
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/7_The_Last_Battle/C.%20S.%20Lewis%20-%20The%20Chronicles%20of%20Narnia%20-%207%20-%20The%20Last%20Battle%20%28Audiobook%29.m4b
+
+
+# ======================================================
+# HIS DARK MATERIALS
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232332-L.jpg",His Dark Materials - 01 Northern Lights (Part 1)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/01%20Northern%20Lights%20%28Part%201%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232332-L.jpg",His Dark Materials - 02 Northern Light (Part 2)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/02%20Northern%20Light%20%28Part%202%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232334-L.jpg",His Dark Materials - 03 The Subtle Knife (Part 1)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/03%20The%20Subtle%20Knife%20%28Part%201%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232334-L.jpg",His Dark Materials - 04 The Subtle Knife (Part 2)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/04%20The%20Subtle%20Knife%20%28Part%202%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232335-L.jpg",His Dark Materials - 05 The Amber Spyglass (Part 1)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/05%20The%20Amber%20Spyglass%20%28Part%201%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8232335-L.jpg",His Dark Materials - 06 The Amber Spyglass (Part 2)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/His%20Dark%20Materials/06%20The%20Amber%20Spyglass%20%28Part%202%29.mp3
+
+
+# ======================================================
+# THE HOBBIT
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 1. An Unexpected Party
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/1.%20An%20Unexpected%20Party.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 2. Roast Mutton
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/2.%20Roast%20Mutton.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 3. A Short Rest
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/3.%20A%20Short%20Rest.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 4. Over Hill And Under Hill
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/4.%20Over%20Hill%20And%20Under%20Hill.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 5. Riddles In the Dark
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/5.%20Riddles%20In%20the%20Dark.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 6. Out Of The Frying-Pan Into The Fire
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/6.%20Out%20Of%20The%20Frying-Pan%20Into%20The%20Fire.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 7. Queer Lodgings
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/7.%20Queer%20Lodgings.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 8. Flies And Spiders
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/8.%20Flies%20And%20Spiders.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 9. Barrels Out Of Bond
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/9.%20Barrels%20Out%20Of%20Bond.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 10. A Warm Welcome
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/10.%20A%20Warm%20Welcome.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 11. On The Doorstep
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/11.%20On%20The%20Doorstep.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 12. Inside Information
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/12.%20Inside%20Information.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 13. Not At Home
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/13.%20Not%20At%20Home.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 14. Fire And Water
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/14.%20Fire%20And%20Water.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 15. The Gathering Of The Clouds
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/15.%20The%20Gathering%20Of%20The%20Clouds.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 16. A Thief In The Night
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/16.%20A%20Thief%20In%20The%20Night.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 17. The Clouds Burst
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/17.%20The%20Clouds%20Burst.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 18. The Return Journey
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/18.%20The%20Return%20Journey.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406786-L.jpg",The Hobbit - 19. The Last Stage
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/The%20Hobbit/19.%20The%20Last%20Stage.mp3
+
+
+# ======================================================
+# THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 01 - A Long-Expected Party (2014)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/01%20-%20A%20Long-Expected%20Party%20%282014%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 02 - The Shadow of the Past (2014)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/02%20-%20The%20Shadow%20of%20the%20Past%20%282014%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 03 - Three Is Company (2014)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/03%20-%20Three%20Is%20Company%20%282014%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 04 - A Shortcut to Mushrooms
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/04%20-%20A%20Shortcut%20to%20Mushrooms.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 05 - A Conspiracy Unmasked
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/05%20-%20A%20Conspiracy%20Unmasked.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 06 - The Old Forest
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/06%20-%20The%20Old%20Forest.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 07 - In The House of Tom Bombadil
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/07%20-%20In%20The%20House%20of%20Tom%20Bombadil.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 08 - Fog on the Barrow Downs
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/08%20-%20Fog%20on%20the%20Barrow%20Downs.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 09 - At the Sign of the Prancing Pony
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/09%20-%20At%20the%20Sign%20of%20the%20Prancing%20Pony.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 10 - Strider
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/10%20-%20Strider.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 11 - A Knife in the Dark
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/11%20-%20A%20Knife%20in%20the%20Dark.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 12 - Flight to the Ford
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/12%20-%20Flight%20to%20the%20Ford.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 13 - Many Meetings
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/13%20-%20Many%20Meetings.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 14 - The Council of Elrond 256
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/14%20-%20The%20Council%20of%20Elrond%20256.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 15 - The Ring Goes South
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/15%20-%20The%20Ring%20Goes%20South.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 16 - A Journey In The Dark
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/16%20-%20A%20Journey%20In%20The%20Dark.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 17 - The Bridge of Khazad-Dum
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/17%20-%20The%20Bridge%20of%20Khazad-Dum.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 18 - Lothlorien (2013)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/18%20-%20Lothlorien%20%282013%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 19 - Mirror of Galadriel
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/19%20-%20Mirror%20of%20Galadriel.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 20 - Farewell to Lorien
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/20%20-%20Farewell%20to%20Lorien.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 21 - The Great River (2013)
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/21%20-%20The%20Great%20River%20%282013%29.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406787-L.jpg",LotR 1 - 22 - The Breaking of the Fellowship
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-fellowship-of-the-ring_soundscape-by-phil-dragash/22%20-%20The%20Breaking%20of%20the%20Fellowship.mp3
+
+
+# ======================================================
+# THE LORD OF THE RINGS: THE TWO TOWERS
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 01 - The Departure of Boromir
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/01%20-%20The%20Departure%20of%20Boromir.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 02 - The Riders of Rohan
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/02%20-%20The%20Riders%20of%20Rohan.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 03 - The Uruk-Hai
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/03%20-%20The%20Uruk-Hai.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 04 - Treebeard
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/04%20-%20Treebeard.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 05 - The White Rider
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/05%20-%20The%20White%20Rider.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 06 - The King of the Golden Hall 2013
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/06%20-%20The%20King%20of%20the%20Golden%20Hall%202013.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 07 - Helms Deep
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/07%20-%20Helms%20Deep.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 08 - The Road to Isengard
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/08%20-%20The%20Road%20to%20Isengard.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 09 - Flotsam & Jetsam
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/09%20-%20Flotsam%20%26%20Jetsam.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 10 - The Voice of Saruman
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/10%20-%20The%20Voice%20of%20Saruman.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 11 - The Palantir
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/11%20-%20The%20Palantir.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 12 - The Taming of Smeagol
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/12%20-%20The%20Taming%20of%20Smeagol.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 13 - The Passage of the Marshes
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/13%20-%20The%20Passage%20of%20the%20Marshes.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 14 - The Black Gate is Closed
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/14%20-%20The%20Black%20Gate%20is%20Closed.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 15 - Of Herbs and Stewed Rabbit
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/15%20-%20Of%20Herbs%20and%20Stewed%20Rabbit.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 16 - The Window On The West
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/16%20-%20The%20Window%20On%20The%20West.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 17 - The Forbidden Pool
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/17%20-%20The%20Forbidden%20Pool.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 18 - Journey To The Cross-Roads
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/18%20-%20Journey%20To%20The%20Cross-Roads.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 19 - The Stairs of Cirith Ungol
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/19%20-%20The%20Stairs%20of%20Cirith%20Ungol.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 20 - Shelobs Lair
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/20%20-%20Shelobs%20Lair.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406788-L.jpg",LotR 2 - 21 - The Choices of Master Samwise
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-two-towers_soundscape-by-phil-dragash/21%20-%20The%20Choices%20of%20Master%20Samwise.mp3
+
+
+# ======================================================
+# THE LORD OF THE RINGS: THE RETURN OF THE KING
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 01 - Minas Tirith
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/01%20-%20Minas%20Tirith.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 02 - The Passing of the Grey Company 2013
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/02%20-%20The%20Passing%20of%20the%20Grey%20Company%202013.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 03 - The Muster of Rohan
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/03%20-%20The%20Muster%20of%20Rohan.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 04 - The Siege of Gondor
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/04%20-%20The%20Siege%20of%20Gondor.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 05 - The Ride of the Rohirrim
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/05%20-%20The%20Ride%20of%20the%20Rohirrim.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 06 - The Battle of the Pelennor Fields
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/06%20-%20The%20Battle%20of%20the%20Pelennor%20Fields.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 07 - The Pyre of Denethor
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/07%20-%20The%20Pyre%20of%20Denethor.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 08 - The Houses of Healing
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/08%20-%20The%20Houses%20of%20Healing.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 09 - The Last Debate
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/09%20-%20The%20Last%20Debate.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 10 - The Black Gate Opens
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/10%20-%20The%20Black%20Gate%20Opens.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 11 - The Tower of Cirith Ungol
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/11%20-%20The%20Tower%20of%20Cirith%20Ungol.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 12 - The Land of Shadow
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/12%20-%20The%20Land%20of%20Shadow.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 13 - Mount Doom
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/13%20-%20Mount%20Doom.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 14 - The Field of Cormallen
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/14%20-%20The%20Field%20of%20Cormallen.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 15 - The Steward and the King
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/15%20-%20The%20Steward%20and%20the%20King.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 16 - Many Partings
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/16%20-%20Many%20Partings.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 17 - Homeward Bound
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/17%20-%20Homeward%20Bound.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 18 - The Scouring of the Shire
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/18%20-%20The%20Scouring%20of%20the%20Shire.mp3
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8406789-L.jpg",LotR 3 - 19 - The Grey Havens
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/the-return-of-the-king_soundscape-by-phil-dragash/19%20-%20The%20Grey%20Havens.mp3
+
+
+# ======================================================
+# HARRY POTTER
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/10521270-L.jpg",Harry Potter 1 - The Philosopher's Stone
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/1.%20Harry%20Potter%20and%20the%20Philosopher%27s%20Stone.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/10958382-L.jpg",Harry Potter 2 - The Chamber of Secrets
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/2.%20Harry%20Potter%20and%20the%20Chamber%20of%20Secrets.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/11181282-L.jpg",Harry Potter 3 - The Prisoner of Azkaban
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/3.%20Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/11181290-L.jpg",Harry Potter 4 - The Goblet of Fire
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/4.%20Harry%20Potter%20and%20the%20Goblet%20of%20Fire.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/11181300-L.jpg",Harry Potter 5 - The Order of the Phoenix
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/5.%20Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/11181308-L.jpg",Harry Potter 6 - The Half-Blood Prince
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/6.%20Harry%20Potter%20and%20the%20Half-Blood%20Prince.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/11181316-L.jpg",Harry Potter 7 - The Deathly Hallows
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/7.Harry%20Potter%20and%20the%20Deathly%20Hallows.m4b
+
+
+# ======================================================
+# THE INHERITANCE CYCLE
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/12818862-L.jpg",Inheritance Cycle 1 - Eragon
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/Eragon_Audio_-_Christopher_Paolini.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8316104-L.jpg",Inheritance Cycle 2 - Eldest
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/Eldest_Audio_-_Christopher_Paolini.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235111-L.jpg",Inheritance Cycle 3 - Brisingr
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/Brisingr_Audio_-_Christopher_Paolini.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/7268800-L.jpg",Inheritance Cycle 4 - Inheritance
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/Inheritance_Audio_-_Christopher_Paolini.m4b
+
+
+# ======================================================
+# PERCY JACKSON & THE OLYMPIANS
+# ======================================================
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235262-L.jpg",Percy Jackson 1 - The Lightning Thief
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/01_-_Percy_Jackson_and_The_Lightning_Thief.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235275-L.jpg",Percy Jackson 2 - The Sea of Monsters
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/02_-_Percy_Jackson_and_The_Sea_of_Monsters.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235288-L.jpg",Percy Jackson 3 - The Titan's Curse
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/03_-_Percy_Jackson_and_The_Titans_Curse.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235300-L.jpg",Percy Jackson 4 - The Battle of the Labyrinth
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/04_-_Percy_Jackson_and_The_Battle_of_the_Labyrinth.m4b
+
+#EXTINF:-1 tvg-logo="https://covers.openlibrary.org/b/id/8235312-L.jpg",Percy Jackson 5 - The Last Olympian
+https://raw.githubusercontent.com/ClubBasePro/AudioBooks/main/05_-_Percy_Jackson_and_The_Last_Olympian.m4b
+
